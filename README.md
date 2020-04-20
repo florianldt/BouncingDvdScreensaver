@@ -2,6 +2,6 @@
 
 The DVD screensaver animation in Swift Playground
 
-![BouncingDvdScreensaver](https://i.imgur.com/RDRMiYc.gif)
+![BouncingDvdScreensaver](media/bouncingDvdScreensaver.gif)
 
 tw: [@florianldt](https://twitter.com/florianldt)
